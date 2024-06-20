@@ -1,0 +1,1 @@
+This is an Artificial Intelligence bot that will play tic-tac-toe against the user optimally. It uses the minimax algorithm to determine what the next best move is at every game state. The bot will, at worst case, tie the game. 
